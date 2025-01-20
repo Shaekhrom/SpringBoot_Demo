@@ -27,6 +27,6 @@ Follow these steps to install and run the project:
 
 ## Disclaimer
 
-Updated and translated from https://github.com/irojascorsico/spring-boot-jwt-authentication/tree/v1.0 
-(irojascorsico was the original author of the project, I have created the documentation in Spanish and added comments explaining what the code does.)
+Updated and translated from https://github.com/irojascorsico/spring-boot-jwt-authentication/tree/v1.0     
+(**@irojascorsico** was the original author of the project, I have created the documentation in Spanish and added comments explaining what the code does.)
 
